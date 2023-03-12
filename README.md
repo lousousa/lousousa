@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<div>
-  <a href="https://www.instagram.com/luisousarte/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 	<a href="https://www.twitter.com/luisousarte"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/louizard/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
-
 <!--
 **lousousa/lousousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://www.linkedin.com/in/louizard/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 Here are some ideas to get you started:
 
