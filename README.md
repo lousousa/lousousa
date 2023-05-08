@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I have a Technologist degree in Analysis and Systems Development.
+- 💡 Currently, I have a large background in Full-stack dev, but if you ask me, I'd rather work with the Front-end side.
+- 🔥 My dev career got started in 2012, and I kept going on in this until now.
+- 🕹️ I used to be a game dev (you can even find some projects here), but nowadays it is an activity I keep on hiatus.
+- 🎨 I also like to draw very much and have a sort of hobbyist career with paintings, illustrations, and frame-by-frame animation.
+- 🕴️ Fun fact: I have already taught the Moonwalk to all of my (local) friends.
