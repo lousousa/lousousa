@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🔥 My dev career got started in 2012, and I kept going on in this until now.
 - 🕹️ I used to be a game dev (you can even find some projects here), but nowadays it is an activity I keep on hiatus.
 - 🎨 I also like to draw very much and have a sort of hobbyist career with paintings, illustrations, and frame-by-frame animation.
-- 🕴️ Fun fact: I have already taught the Moonwalk to all of my (local) friends.
+- 🕴️ Fun fact: I have already taught the _Moonwalk_ to all of my (local) friends.
