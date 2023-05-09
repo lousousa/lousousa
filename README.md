@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **lousousa/lousousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://www.linkedin.com/in/louizard/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![giphy](https://user-images.githubusercontent.com/2921281/236961907-2c85d9cc-044f-4ba7-b9b0-907eae91abcc.gif)
 
 - 🎓 I have a Technologist degree in Analysis and Systems Development.
 - 💡 Currently, I have a large background in Full-stack dev, but if you ask me, I'd rather work with the Front-end side.
