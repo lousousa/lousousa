@@ -10,3 +10,7 @@
 - 🕹️ Years ago, I used to be a game dev (you can even find some projects here), nowadays, however, it's an activity I keep on hiatus.
 - 🎨 I also like to draw and have a sort of [hobbyist career](https://luisousarte.tumblr.com/) with paintings, illustrations, and frame-by-frame animation.
 - 🕴️ Fun fact: I have already taught the _Moonwalk_ to all of my (local) friends.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lousousa&theme=dark&layout=compact&hide=lua,css,less)](https://github.com/lousousa/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lousousa&theme=dark&hide=stars,issues,contribs)](https://github.com/lousousa/github-readme-stats)
