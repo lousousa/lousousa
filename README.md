@@ -18,7 +18,6 @@
     style="height: 10rem;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lousousa&theme=dark&layout=compact&hide=lua,css,less"
   />
-
   <img
     style="height: 10rem;"
     src="https://github-readme-stats.vercel.app/api?username=lousousa&theme=dark&hide=stars,issues,contribs"
