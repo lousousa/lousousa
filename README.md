@@ -2,7 +2,11 @@
 <a href="https://www.linkedin.com/in/louizard/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 -->
 
-![giphy](https://user-images.githubusercontent.com/2921281/236961907-2c85d9cc-044f-4ba7-b9b0-907eae91abcc.gif)
+<div>
+  <img
+    src="https://user-images.githubusercontent.com/2921281/236961907-2c85d9cc-044f-4ba7-b9b0-907eae91abcc.gif"
+  />
+</div>
 
 - 🎓 I have a Technologist degree in Analysis and Systems Development.
 - 🔥 My dev career got started in 2012, and I've kept at it ever since.
