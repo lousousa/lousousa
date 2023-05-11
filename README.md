@@ -2,11 +2,7 @@
 <a href="https://www.linkedin.com/in/louizard/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 -->
 
-<div>
-  <img
-    src="https://user-images.githubusercontent.com/2921281/236961907-2c85d9cc-044f-4ba7-b9b0-907eae91abcc.gif"
-  />
-</div>
+<img src="https://user-images.githubusercontent.com/2921281/236961907-2c85d9cc-044f-4ba7-b9b0-907eae91abcc.gif" />
 
 - 🎓 I have a Technologist degree in Analysis and Systems Development.
 - 🔥 My dev career got started in 2012, and I've kept at it ever since.
@@ -15,9 +11,7 @@
 - 🎨 I also like to draw and have a sort of [hobbyist career](https://luisousarte.tumblr.com/) with paintings, illustrations, and frame-by-frame animation.
 - 🕴️ Fun fact: I have already taught the _Moonwalk_ to all of my (local) friends.
 
-<div
-  style="display: flex;"
->
+<div>
   <img
     style="height: 10rem;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lousousa&theme=dark&layout=compact&hide=lua,css,less"
