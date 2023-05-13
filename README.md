@@ -1,6 +1,4 @@
-<!--
-<a href="https://www.linkedin.com/in/louizard/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
--->
+# Hi there! My name is Luis. <a target="_blank" href="https://www.linkedin.com/in/louizard/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://luizard.com"><img src="https://img.shields.io/static/v1?message=portfolio&color=black&style=for-the-badge&label=" /></a>
 
 <img src="https://user-images.githubusercontent.com/2921281/236961907-2c85d9cc-044f-4ba7-b9b0-907eae91abcc.gif" />
 
