@@ -12,7 +12,7 @@
 - 🔥 I began my journey as a developer in 2012 and have been all in ever since.
 - 💡 Although I’ve worked across the full stack, front-end development is where I feel most at home.
 - 🕹️ I used to be deeply involved in game development. These days, I treat it more as a hobby.
-- 🎨 Art is another [passion of mine](https://luisousarte.tumblr.com/); I enjoy creating paintings, illustrations, comics, and frame-by-frame animations.
+- 🎨 Art is another [passion of mine](https://luisousarte.tumblr.com/). I enjoy creating paintings, illustrations, comics, and frame-by-frame animations.
 - 🕴️ Fun fact: I've taught the _Moonwalk_ to all of my (local) friends!
 
 <br/>
