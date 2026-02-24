@@ -17,6 +17,7 @@
 
 <br/>
 
+<!--
 <div>
   <img
     style="height: 10rem"
@@ -27,3 +28,4 @@
     src="https://github-readme-stats.vercel.app/api?username=lousousa&theme=dark&hide=stars,issues,contribs"
   />
 </div>
+-->
