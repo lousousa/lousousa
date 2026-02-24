@@ -15,9 +15,8 @@
 - 🎨 Art is another [passion of mine](https://instagram.com/luisousarte). I enjoy creating paintings, illustrations, comics, and frame-by-frame animations.
 - 🕴️ Fun fact: I've taught the _Moonwalk_ to all of my (local) friends!
 
-<br/>
-
 <!--
+<br/>
 <div>
   <img
     style="height: 10rem"
