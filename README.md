@@ -13,7 +13,7 @@
 - 💡 Although I’ve worked across the full stack, front-end development is where I feel most at home.
 - 🕹️ I used to be deeply involved in game development. These days, I treat it more as a hobby.
 - 🎨 Art is another [passion of mine](https://instagram.com/luisousarte). I enjoy creating paintings, illustrations, comics, and frame-by-frame animations.
-- 🕴️ Fun fact: I've taught the _Moonwalk_ to all of my (local) friends!
+- ✏️ Fun fact: I used to draw so much that the first joint of my right middle finger developed a small dent the exact size of a regular pencil.
 
 <!--
 <br/>
